@@ -17,14 +17,14 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ef020_000.yaml, hash: 'sha256:76b5d1b325fe2493d75da8db6f11e1ce5dade4f201f6e0858988dd117dc2a530'}
-  - {seq: 1, filename: KR3ef020_001.yaml, hash: 'sha256:f63a8b38a255c66347693e6b0adb6c030edcaa43466ead49a27a2bd9500cf128'}
-  - {seq: 3, filename: KR3ef020_003.yaml, hash: 'sha256:179d5491efd36a535bef7f049d5ea2b3fa6a50273d4a0605914b364e08a0233f'}
-  - {seq: 0, filename: KR3ef020_000.yaml, hash: 'sha256:76b5d1b325fe2493d75da8db6f11e1ce5dade4f201f6e0858988dd117dc2a530'}
+  - {seq: 0, filename: KR3ef020_000.yaml, hash: 'sha256:91d0ee3f74aa1c20ef8285e90245ee03a4df9296f5353738711ff0e9648874fd'}
+  - {seq: 1, filename: KR3ef020_001.yaml, hash: 'sha256:e6654e823380ed4e801dcd252efa90ebcbc783780e44116b599eb2ab79cd795f'}
+  - {seq: 3, filename: KR3ef020_003.yaml, hash: 'sha256:d5cb4e064dab293f315c5902008dad6a725b0f8d055aad955c544cde744fc87a'}
+  - {seq: 0, filename: KR3ef020_000.yaml, hash: 'sha256:91d0ee3f74aa1c20ef8285e90245ee03a4df9296f5353738711ff0e9648874fd'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ef020_000.markers.yaml, hash: 'sha256:339aabe5c90d6e3fcd527d7a460d60d3c577d181365103ff394247bff9db529f'}
-  - {seq: 1, role: markers, filename: assets/KR3ef020_001.markers.yaml, hash: 'sha256:5d3b39c08c943cd1f022072b94b4c1df19e7f19ccbd810ea02eb37a13bf47f77'}
-  - {seq: 3, role: markers, filename: assets/KR3ef020_003.markers.yaml, hash: 'sha256:446d0a42e041baca505e2be630b9c47dae25ffcde9fd0a59000e521ff42e0bc6'}
+  - {seq: 0, role: markers, filename: assets/KR3ef020_000.markers.yaml, hash: 'sha256:c1f9b5111cdb81d246c6d44ca36b65995f2b15435816d5a2b871ec576082a871'}
+  - {seq: 1, role: markers, filename: assets/KR3ef020_001.markers.yaml, hash: 'sha256:e23432c503acc9cc8a0be2c5bed081848e665800ffd0781af5fa3746601b4499'}
+  - {seq: 3, role: markers, filename: assets/KR3ef020_003.markers.yaml, hash: 'sha256:475bee5c7188c7a114c7c096bd62aacbb505c3713a6c04038d742dbe66ee2e01'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1346,7 +1346,4 @@ table_of_contents:
   label: 牡蠣澤瀉散
   type: section
   level: 2
-hash: sha256:cd67974611eafba4de50e751312ac9cdf8714eaa9a4fb7a25b83fb21aa3fd0e7
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:fc81abc2bcc7205c6573985520cd2143aef4b09b82664d5bd050446acf1c7e49
