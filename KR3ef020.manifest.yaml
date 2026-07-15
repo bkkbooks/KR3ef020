@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ef020/v1
 canonical_location: https://kanripo.org/bkk/KR3ef020/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 傷寒纘論
   identifiers:
@@ -17,14 +17,14 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ef020_000.yaml, hash: 'sha256:91d0ee3f74aa1c20ef8285e90245ee03a4df9296f5353738711ff0e9648874fd'}
-  - {seq: 1, filename: KR3ef020_001.yaml, hash: 'sha256:e6654e823380ed4e801dcd252efa90ebcbc783780e44116b599eb2ab79cd795f'}
-  - {seq: 3, filename: KR3ef020_003.yaml, hash: 'sha256:d5cb4e064dab293f315c5902008dad6a725b0f8d055aad955c544cde744fc87a'}
-  - {seq: 0, filename: KR3ef020_000.yaml, hash: 'sha256:91d0ee3f74aa1c20ef8285e90245ee03a4df9296f5353738711ff0e9648874fd'}
+  - {seq: 0, filename: KR3ef020_000.yaml, hash: 'sha256:41ca598358cd2fa6f733545a4590eeb67f34080a08daa821cf5be9ea8a13dc98'}
+  - {seq: 1, filename: KR3ef020_001.yaml, hash: 'sha256:fe1ee7aa6bd16614e36860a3bf6764752decdb72bdab40314621ecb3ae59a00b'}
+  - {seq: 3, filename: KR3ef020_003.yaml, hash: 'sha256:5e0847260f13d37c65a58bbf0cad07dd2bdde68fd0db490101b5738cd2d5f1a9'}
+  - {seq: 0, filename: KR3ef020_000.yaml, hash: 'sha256:41ca598358cd2fa6f733545a4590eeb67f34080a08daa821cf5be9ea8a13dc98'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ef020_000.markers.yaml, hash: 'sha256:c1f9b5111cdb81d246c6d44ca36b65995f2b15435816d5a2b871ec576082a871'}
-  - {seq: 1, role: markers, filename: assets/KR3ef020_001.markers.yaml, hash: 'sha256:e23432c503acc9cc8a0be2c5bed081848e665800ffd0781af5fa3746601b4499'}
-  - {seq: 3, role: markers, filename: assets/KR3ef020_003.markers.yaml, hash: 'sha256:475bee5c7188c7a114c7c096bd62aacbb505c3713a6c04038d742dbe66ee2e01'}
+  - {seq: 0, role: markers, filename: assets/KR3ef020_000.markers.yaml, hash: 'sha256:a2421507189e719e68701fd6c2919c5aef8625e969097aab6b69d1227bb172c5'}
+  - {seq: 1, role: markers, filename: assets/KR3ef020_001.markers.yaml, hash: 'sha256:6566dbddbef508e769208ffc41772ac489262607dd215dcea0d36d7fa19a70a8'}
+  - {seq: 3, role: markers, filename: assets/KR3ef020_003.markers.yaml, hash: 'sha256:7b5940da29dc93cd3d8e8eefea3272d68bf17b690e5421953517af8b77a40c12'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1346,4 +1346,7 @@ table_of_contents:
   label: 牡蠣澤瀉散
   type: section
   level: 2
-hash: sha256:fc81abc2bcc7205c6573985520cd2143aef4b09b82664d5bd050446acf1c7e49
+hash: sha256:3d5ce5baadad63e5705221cde8a0fd471fdb134b6e3411d93c021f6e491964b3
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
