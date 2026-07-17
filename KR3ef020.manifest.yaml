@@ -22,7 +22,7 @@ assets:
   - {seq: 3, filename: KR3ef020_003.yaml, hash: 'sha256:5e0847260f13d37c65a58bbf0cad07dd2bdde68fd0db490101b5738cd2d5f1a9'}
   - {seq: 0, filename: KR3ef020_000.yaml, hash: 'sha256:41ca598358cd2fa6f733545a4590eeb67f34080a08daa821cf5be9ea8a13dc98'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ef020_000.markers.yaml, hash: 'sha256:a2421507189e719e68701fd6c2919c5aef8625e969097aab6b69d1227bb172c5'}
+  - {seq: 0, role: markers, filename: assets/KR3ef020_000.markers.yaml, hash: 'sha256:7252999a6ba0169c42de7a2238f5971d8986f86e6d81436c5fb8c2c857d6ac21'}
   - {seq: 1, role: markers, filename: assets/KR3ef020_001.markers.yaml, hash: 'sha256:6566dbddbef508e769208ffc41772ac489262607dd215dcea0d36d7fa19a70a8'}
   - {seq: 3, role: markers, filename: assets/KR3ef020_003.markers.yaml, hash: 'sha256:7b5940da29dc93cd3d8e8eefea3272d68bf17b690e5421953517af8b77a40c12'}
 table_of_contents:
@@ -1346,7 +1346,7 @@ table_of_contents:
   label: 牡蠣澤瀉散
   type: section
   level: 2
-hash: sha256:3d5ce5baadad63e5705221cde8a0fd471fdb134b6e3411d93c021f6e491964b3
+hash: sha256:43a39a25b5042b66b9efb7acc0b9f4a8d38d00a317c86dfb2d53917e35d8870b
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
